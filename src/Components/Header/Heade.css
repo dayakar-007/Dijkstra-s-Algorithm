@@ -1,0 +1,14 @@
+.header {
+    background-color: #675a30; /* A pleasant green background */
+    padding: 20px; /* Adds some space around the heading */
+    text-align: center; /* Centers the text horizontally */
+    color: white; /* White text color */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Adds a slight shadow below the header */
+  }
+  
+  .header h1 {
+    margin: 0; /* Removes default margin */
+    font-size: 2rem; /* Increases font size */
+    font-weight: 600; /* Semi-bold text */
+  }
+  
